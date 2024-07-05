@@ -1,0 +1,16 @@
+td{
+    padding: 25px;
+}
+table,tr,td{
+    border-color: black;
+    border-width: 1px;
+    border-style:solid;
+    border-collapse: collapse;
+    background-color: beige;
+}
+.sqwhiteve{
+    background-color: black;
+}
+.sqwhitodd{
+    background-color: beige;
+}
